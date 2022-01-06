@@ -1,7 +1,7 @@
 language-gleam
 ==============
 
-Support for the [Gleam programming language] inside [Atom]
+Support for the [Gleam programming language] ✨ inside [Atom] :atom:
 
 This package utilizes [tree-sitter-gleam] in order to provide syntax
 highlighting and code navigation features for Gleam within Atom.
