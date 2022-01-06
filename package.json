@@ -1,0 +1,27 @@
+{
+  "name": "language-gleam",
+  "version": "0.1.0",
+  "description": "Atom support for the Gleam programming language",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/J3RN/language-gleam.git"
+  },
+  "keywords": [
+    "gleam",
+    "tree-sitter",
+    "atom"
+  ],
+  "author": "Jonathan Arnett",
+  "license": "Apache-2.0",
+  "engines": {
+    "atom": "*",
+    "node": "*"
+  },
+  "bugs": {
+    "url": "https://github.com/J3RN/language-gleam/issues"
+  },
+  "homepage": "https://github.com/J3RN/language-gleam#readme",
+  "dependencies": {
+    "tree-sitter-gleam": "github:J3RN/tree-sitter-gleam"
+  }
+}
